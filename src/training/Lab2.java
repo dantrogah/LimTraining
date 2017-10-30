@@ -16,6 +16,8 @@ public class Lab2 {
 		stud1.payTuition(600);
 		System.out.println(stud1.toString());
 		
+		System.out.println("-----------------");
+		
 		
 		
 	}
