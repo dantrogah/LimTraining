@@ -17,6 +17,7 @@ public class Lab2 {
 		System.out.println(stud1.toString());
 		
 		System.out.println("-----------------");
+		System.out.println("-----------------");
 		
 		
 		
